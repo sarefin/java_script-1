@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+text-transform: capitalize;
+color: #6969ab;
+}
+.input{
+display: block;
+padding: 5px 5px;
+border:1px solid #6969ab;
+border-radius: 4px;
+width: 400px;
+margin: 10px auto;
+}
+.button{
+	display: block;
+margin: 10px auto;
+overflow: hidden;
+width: 100px;
+padding: 5px;
+text-transform: capitalize;
+font-size: 15px;
+border-radius: 4px;
+background: #6969ab;
+border:1px solid #6969ab;
+color:#fff;
+}
